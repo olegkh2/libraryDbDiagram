@@ -5,7 +5,7 @@ This project is a database schema designed to manage the processes of a library 
 The schema is designed with scalability in mind, allowing for easy expansion and adding new features as the system evolves.
 
 ## UML Diagram
-![Diagram]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/olegkh2/libraryDbDiagram/blob/main/Libraries%20DB%20Diagram.png))
+![Diagram](https://github.com/olegkh2/libraryDbDiagram/blob/main/Libraries%20DB%20Diagram.png)
 
 ## Database Tables
 
